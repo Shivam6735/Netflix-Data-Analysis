@@ -33,15 +33,17 @@ Analyzed movie release years to find which year had the maximum number of films 
 Insight:
 The dataset shows a peak in movie releases in one specific year, indicating a significant increase in content production during that period.
 
-Techniques Used
-Data Cleaning and preprocessing
-Data type optimization (category conversion)
-Aggregation and statistical analysis
-Data visualization for pattern recognition
-Exploratory Data Analysis (EDA)
+Techniques Used:
 
-Skills Demonstrated
-Data analysis using Python
-Data manipulation with Pandas
-Visualization using Seaborn and Matplotlib
-Extracting meaningful insights from real-world datasets
+* Data Cleaning and preprocessing
+* Data type optimization (category conversion)
+* Aggregation and statistical analysis
+* Data visualization for pattern recognition
+* Exploratory Data Analysis (EDA)
+
+Skills Demonstrated:
+
+* Data analysis using Python
+* Data manipulation with Pandas
+* Visualization using Seaborn and Matplotlib
+* Extracting meaningful insights from real-world datasets
